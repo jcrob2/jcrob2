@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Jared Robinson
 
 <!--
 **jcrob2/jcrob2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🏫 I'm studying Computer Engineering
+- 🏢 I'm currently working as a Software Engineering Intern
+- 🌱 I'm currently learning [Go](https://go.dev/)
