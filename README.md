@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 - 🏫 I'm studying Computer Engineering
-- 🏢 I'm currently working as a Software Engineering Intern
+- 🏢 I'm currently working as a Software Engineer
 - 🌱 I'm currently learning [Go](https://go.dev/)
